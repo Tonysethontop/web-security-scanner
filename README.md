@@ -26,7 +26,7 @@ A comprehensive web security scanner that checks:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/web-security-scanner.git
+git clone https://github.com/Tonysethontop/web-security-scanner.git
 cd web-security-scanner
 
 
@@ -34,6 +34,7 @@ cd web-security-scanner
 ## Requriments
 2. Install the requriments:
 ```bash
+cd headscan
 pip install -r requirements.txt
 
 
