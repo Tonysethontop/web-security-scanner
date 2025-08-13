@@ -28,3 +28,7 @@ A comprehensive web security scanner that checks:
 ```bash
 git clone https://github.com/yourusername/web-security-scanner.git
 cd web-security-scanner
+
+3. pip install -r requirements.txt
+
+4. python headerscanner.py
