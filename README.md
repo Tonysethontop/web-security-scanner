@@ -29,6 +29,8 @@ A comprehensive web security scanner that checks:
 git clone https://github.com/yourusername/web-security-scanner.git
 cd web-security-scanner
 
-3. pip install -r requirements.txt
+2. Next Install requirments
+ pip install -r requirements.txt
 
-4. python headerscanner.py
+To run 
+3. python headerscanner.py
