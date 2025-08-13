@@ -11,7 +11,7 @@ A comprehensive web security scanner that checks:
 - Server fingerprinting
 - Shodan integration for vulnerability data
 
-![Screenshot](docs/images/screenshot.png)
+![Screenshot](<img width="957" height="522" alt="image" src="https://github.com/user-attachments/assets/689a09ed-b4c5-48ee-acd1-aade8f599a4f" />)
 
 ## Features
 
@@ -29,8 +29,19 @@ A comprehensive web security scanner that checks:
 git clone https://github.com/yourusername/web-security-scanner.git
 cd web-security-scanner
 
-2. Next Install requirments
- pip install -r requirements.txt
 
-To run 
-3. python headerscanner.py
+```
+## Requriments
+2. Install the requriments:
+```bash
+pip install -r requirements.txt
+
+
+
+```
+## To Start
+3. How to run:
+```bash
+Python headerscanner.py
+
+
