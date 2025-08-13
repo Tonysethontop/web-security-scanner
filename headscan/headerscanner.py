@@ -76,7 +76,7 @@ def scan_security_headers():
             response = requests.get(url, timeout=10)
             headers = response.headers
 
-            # --- HEADER SCANNING ---
+           
             found = []
             missing = []
 
@@ -136,7 +136,7 @@ def scan_security_headers():
             else:
                 put_text(f"Access-Control-Allow-Origin: {cors}")
 
-            # --- Content-Security-Policy (Weakness Check) ---
+         
             put_markdown("### 🧪 Content-Security-Policy Evaluation")
             csp = headers.get("Content-Security-Policy")
             if not csp:
@@ -178,3 +178,4 @@ def scan_security_headers():
 
 if __name__ == '__main__':
     start_server(scan_security_headers, port=8080, debug=True)
+
