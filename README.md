@@ -11,7 +11,7 @@ A comprehensive web security scanner that checks:
 - Server fingerprinting
 - Shodan integration for vulnerability data
 
-![Screenshot](<img width="957" height="522" alt="image" src="https://github.com/user-attachments/assets/689a09ed-b4c5-48ee-acd1-aade8f599a4f" />)
+![Screenshot](/headscan/preview/Screenshot.png)
 
 ## Features
 
